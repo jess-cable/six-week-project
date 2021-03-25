@@ -127,6 +127,9 @@ nav .topnav li.mobile {
     .slidenav {
         padding-top: 15px;
     }
+    .slidenav a {
+        font-size: 18px;
+    }
 }
 u1.breadcrumb {
     padding: 10px 16px 10px 0;
@@ -189,11 +192,11 @@ u1.breadcrumb li+li:before {
 .ten.columns {
     width: 82.6%;
 }
-.eleven.collumns {
+.eleven.columns {
     width: 91.3%;
 }
 .twelve.columns {
-    width: 100$;
+    width: 100%;
     margin-left: 0;
 }
 @media (max-width: 550px) {
